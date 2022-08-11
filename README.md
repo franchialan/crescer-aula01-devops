@@ -133,7 +133,7 @@ These instructions will get you a copy of the project up and running on your loc
     $ docker rm -f <ID_CONTAINER> ou <NOME_CONTAINER>
     Esse comando permite remover o container em execução de modo forçado
 ```
-### ✍️ COMANDOS BASICOS DE LINUX <a name="comandos_linux"></a>
+## ✍️ COMANDOS BASICOS DE LINUX <a name="comandos_linux"></a>
 ```
     $ apt-get update
     Esse comando atualiza o banco de dados e informa ao seu sistema se há pacotes mais novos disponíveis ou não
